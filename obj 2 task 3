@@ -1,0 +1,12 @@
+START
+INPUT Variable 1
+INPUT Variable 2
+INPUT Variable 3
+ASSUME that the third Variable is used for operator
+IF the Variable 3==”+” THEN
+	ADD the other Variables
+ELSE
+	IF the Variable 3==”-“ THEN
+Take DIFFERENCE of the other Variables
+	ENDIF
+ENDIF
