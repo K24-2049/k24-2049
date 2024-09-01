@@ -1,0 +1,11 @@
+START
+INPUT Variable 1
+INPUT Variable 2
+INPUT Variable 3
+SET sum to 0
+ADD the three Variable
+IF sum >0 THEN
+	PRINT “sum as positive”
+ELSE
+	PRINT “sum as negative”
+ENDIF
