@@ -1,0 +1,10 @@
+start
+Ask the user to input any 2 numbers.
+Ask the user to use arithmetic operators  (+,-,*,/,%) to formulate an arithmetic calculator.
+To take the sum between the two Numbers add the operator “+”.
+To take the difference between the two Numbers add the operator “-”.
+To take the product between the two Numbers add the operator “*”.
+To take the ratio between the two Numbers add the operator “/”.
+To calculate the percentage of the given number, multiply it by “%”.
+Display the result of the specific operation.
+end
