@@ -1,0 +1,4 @@
+1. Ask the user to input any number.
+2. Ask the user to divide that the by 2.
+3. If Number MOD 2= 0, then the number is “even”.
+4. Else the input is an “odd” number.
